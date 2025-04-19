@@ -1,0 +1,17 @@
+.site-footer {
+    font-size: 1.2rem;
+    font-weight: var(--fw-regular);
+    line-height: 1.5;
+    color: var(--color-white);
+    justify-self: center;
+    margin-bottom: 1.2rem;
+}
+
+.site-footer__link {
+    color: var(--color-green-60);
+    transition: color 0.3s ease-in-out;
+}
+
+.site-footer__link:is(:hover, :focus) {
+    color: var(--color-green);
+}
