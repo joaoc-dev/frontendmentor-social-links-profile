@@ -1,5 +1,7 @@
 .gap-16 { gap: 1.6rem; }
 
+.gap-24 { gap: 2.4rem; }
+
 .p-24-40-fluid { padding: clamp(2.4rem, 5.5vw, 4rem); }
 
 .mb-12 { margin-bottom: 1.2rem; }
