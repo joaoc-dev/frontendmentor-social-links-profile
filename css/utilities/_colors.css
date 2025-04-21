@@ -1,0 +1,7 @@
+.bg-gray-900 { background-color: var(--color-gray-900); }
+.bg-gray-800 { background-color: var(--color-gray-800); }
+.bg-gray-700 { background-color: var(--color-gray-700); }
+
+.text-color-white { color: var(--color-white); }
+.text-color-green { color: var(--color-green); }
+.text-color-green-60 { color: var(--color-green-60); }

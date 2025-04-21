@@ -1,0 +1,22 @@
+.display-flex { display: flex; }
+
+.flex-direction-column { flex-direction: column; }
+
+.align-self-center { align-self: center; }
+
+.justify-self-center { justify-self: center; }
+
+.align-items-center { align-items: center; }
+
+.display-grid { display: grid; }
+
+.grid-rows-sticky-footer { grid-template-rows: 1fr auto; }
+
+.h-screen { height: 100vh; }
+
+.hw-88 {
+    width: 88px;	
+    height: 88px;
+}
+
+.w-clamp-327-456 { width: clamp(327px, 75%, 456px); }

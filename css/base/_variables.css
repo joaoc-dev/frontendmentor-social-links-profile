@@ -1,0 +1,12 @@
+:root {
+    --color-gray-900: hsl(0, 0%, 8%);
+    --color-gray-800: hsl(0, 0%, 12%);
+    --color-gray-700: hsl(0, 0%, 20%);
+    --color-green: hsl(75, 94%, 57%);
+    --color-green-60: hsl(75, 71%, 48%);
+    --color-white: hsl(0, 0%, 100%);
+
+    --fw-regular: 400;
+    --fw-semibold: 600;
+    --fw-bold: 700;
+}
