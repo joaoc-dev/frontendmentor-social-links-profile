@@ -1,8 +1,8 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 
-Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -14,8 +14,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/joaoc-dev/frontendmentor-social-links-profile)
-- Live Site URL: [Add live site URL here](https://frontendmentor.newbie.social-links-profile.joao-carvalho.dev)
+- Solution URL: [https://github.com/joaoc-dev/frontendmentor-social-links-profile](https://github.com/joaoc-dev/frontendmentor-social-links-profile)
+- Live Site URL: [https://frontendmentor.newbie.social-links-profile.joao-carvalho.dev](https://frontendmentor.newbie.social-links-profile.joao-carvalho.dev)
 
 ## My process
 

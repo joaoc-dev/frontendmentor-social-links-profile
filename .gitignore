@@ -15,4 +15,5 @@
 .DS_Store
 .prettierignore
 
-.vscode
+# Ignore VSCode settings
+.vscode/
